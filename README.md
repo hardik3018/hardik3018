@@ -2,24 +2,27 @@
   <br><br>
 
 # 💫 About Me:
-Hi there! I'm Hardik Chawda, 
-a DEVELOPER, DESIGNER, CREATOR 
-based in Delhi, India.
+Hi there! I'm **Hardik Chawda**, <br>
+a **DEVELOPER, DESIGNER, CREATOR** <br>
+based in **Delhi**, **India**.
 
-<br>
-<br><br>👯 **I’m looking to collaborate on:**  
-<br>Fullstack projects<br><br>
+<br><br>
+🔭 **I’m currently working on:**  
+<br>Myself! :)
+<br><br>
+👯 **I’m looking to collaborate on:**  
+<br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
 🌱 **I’m currently learning:**  
-<br>
-<br><br>💬 **Ask me about:**  
-<br>C, C++, HTML, CSS, JavaScript, React, Node.js, GRAPHIC DESIGN and any general software development questions.
-<br><br>⚡ **Fun fact:**  
-<br>I do and love Art, Design  and Creativity!
+<br> Fullstack Development, UX, C Development, Embedded Systems
+<br><br>
+💬 **Ask me about:**  
+<br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
+<br><br>
+⚡ **Fun fact:**  
+<br>I do and love **Art, Design **and **Creativity**!
 <br><br>
 
-
-Feel free to Connect with Me to discuss any Related Topics/Opportunities.
-🔭 **I’m currently working on:**  
+Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 
 
 # 🌐 Socials:
