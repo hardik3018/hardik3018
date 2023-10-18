@@ -29,13 +29,21 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 
 
 # 🌐 Socials:
+<br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardik.181) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-chawda-9867a5173/) 
 [![Facebook](https://img.shields.io/badge/-facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/hardik.chawda.940)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:hardikchawda031@gmail.com)
 
+<br>
+
+<br>
+
 
 # 💻 Tech Stack:
+<br>
+
 ![C](https://img.shields.io/badge/C-04364A?style=for-the-badge&logo=cpp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-176B87?style=for-the-badge&logo=cpp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-CA4245?style=for-the-badge&logoColor=white)
@@ -51,9 +59,20 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+<br>
+
+<br>
+
 
 
 # 📊 GitHub Stats:
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardik3018&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+<br>
+
