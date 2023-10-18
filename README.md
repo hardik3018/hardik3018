@@ -1,3 +1,5 @@
+<p align="center">
+
 # Wassup? I'm **Hardik** btw!
 <br><br>
 Wanna Know me? Check this out! ⬇️
@@ -55,3 +57,5 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 ![](https://github-readme-stats.vercel.app/api?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardik3018&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</p>
