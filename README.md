@@ -2,11 +2,9 @@
   <br><br>
 
 # 💫 About Me:
-Hi there! I'm **Hardik Chawda**, <br>
-a **DEVELOPER, DESIGNER, CREATOR** <br>
-based in **Delhi**, **India**.
+Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
 
-<br><br>
+<br>
 🔭 **I’m currently working on:**  
 <br>Myself! :)
 <br><br>
