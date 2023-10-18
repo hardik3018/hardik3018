@@ -17,7 +17,7 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-04364A?style=for-the-badge&logo=cpp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6DA55F?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-176B87?style=for-the-badge&logo=cpp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-CA4245?style=for-the-badge&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
