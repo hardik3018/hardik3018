@@ -1,5 +1,6 @@
+# Wassup? I'm **Hardik** btw!
 
-
+Wanna Know me? Check this out! ⬇️
 ## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br><br>
 
 # 💫 About Me:
@@ -7,18 +8,18 @@ Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **
 
 <br>
 
-**I’m currently working on:**
+**🙎 I’m currently working on:**
 <br>Myself! :)<br><br>
 
-**I’m looking to collaborate on:** 
+**💻 I’m looking to collaborate on:** 
 <br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
-**I’m currently learning:**
+**📖 I’m currently learning:**
 <br> Fullstack Development, UX, C Development, Embedded Systems<br><br>
 
-**Ask me about:**
+**💭 Ask me about:**
 <br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
 <br><br>
-**Fun fact:** 
+**🎈 Fun fact:** 
 <br>I do and love **Art, Design **and **Creativity**!
 <br><br>
 
@@ -27,9 +28,9 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardik.181) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
-![Facebook](https://img.shields.io/badge/-facebook-blue?logo=facebook&logoColor=white)
-![Facebook](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-chawda-9867a5173/) 
+[![Facebook](https://img.shields.io/badge/-facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/hardik.chawda.940)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:hardikchawda031@gmail.com)
 
 
 # 💻 Tech Stack:
