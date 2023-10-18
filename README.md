@@ -3,6 +3,7 @@
 # Wassup? I'm **Hardik** btw!
 <br><br>
 Wanna Know me? Check this out! ⬇️
+![Static Badge](https://img.shields.io/badge/Portfolio-hardikcodes18.netlify.app-yellow?labelColor=yellow&color=black)
 ## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br><br>
 
 # 💫 About Me:
