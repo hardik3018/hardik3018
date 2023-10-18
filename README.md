@@ -5,12 +5,12 @@
 Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
 
 <br>
-🔭 **I’m currently working on:**  
+🔭 **I’m currently working on:**
 <br>Myself! :)
 <br><br>
 👯 **I’m looking to collaborate on:**  
 <br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
-🌱 **I’m currently learning:**  
+🌱**I’m currently learning:**
 <br> Fullstack Development, UX, C Development, Embedded Systems
 <br><br>
 💬 **Ask me about:**  
