@@ -1,8 +1,11 @@
-# | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) |
-
+## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) |
+  <br><br>
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  
+Hi there! I'm Hardik Chawda, 
+a DEVELOPER, DESIGNER, CREATOR 
+based in Delhi, India.
+
 <br>
 <br><br>👯 **I’m looking to collaborate on:**  
 <br>Fullstack projects<br><br>
@@ -15,10 +18,15 @@
 <br><br>
 
 
+Feel free to Connect with Me to discuss any Related Topics/Opportunities.
+🔭 **I’m currently working on:**  
+
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardik.181) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
 ![Facebook](https://img.shields.io/badge/-facebook-blue?logo=facebook&logoColor=white)
+![Facebook](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)
 
 
 # 💻 Tech Stack:
