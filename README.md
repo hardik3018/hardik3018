@@ -22,7 +22,7 @@ Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **
 <br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
 <br><br>
 **🎈 Fun fact:** 
-<br>I do and love **Art, Design **and **Creativity**!
+<br>I do and love **Art, Design** and **Creativity**!
 <br><br>
 
 Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
