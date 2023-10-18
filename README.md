@@ -5,7 +5,7 @@
 Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
 
 <br>
-🔭 **I’m currently working on:**
+🔭 I’m currently working on:
 <br>Myself! :)
 <br><br>
 👯 **I’m looking to collaborate on:**  
@@ -47,12 +47,12 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hardik3018&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
