@@ -14,7 +14,9 @@
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardik.181) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
+![Facebook](https://img.shields.io/badge/-facebook-blue?logo=facebook&logoColor=white)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-04364A?style=for-the-badge&logo=cpp&logoColor=white)
