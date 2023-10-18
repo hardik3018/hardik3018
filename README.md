@@ -2,9 +2,8 @@
 
 # Wassup? I'm **Hardik** btw!
 <br><br>
-Wanna Know me? Check this out! ⬇️
-![Static Badge](https://img.shields.io/badge/Portfolio-hardikcodes18.netlify.app-yellow?labelColor=yellow&color=black)
-## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br><br>
+Wanna Know me? Check this out! ⬇️ <br><br>
+# [![portfolio](https://img.shields.io/badge/Portfolio-hardikcodes18.netlify.app-yellow?style=for-the-badge&labelColor=yellow&color=black)](https://hardikcodes18.netlify.app/)<br><br>
 
 # 💫 About Me:
 Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
