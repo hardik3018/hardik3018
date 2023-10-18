@@ -3,18 +3,18 @@
 ## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br><br>
 
 # 💫 About Me:
-Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
+Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.<br>
 
-<br>
-## I’m currently working on:
-<br>Myself! :)
-<br><br>
-##👯 I’m looking to collaborate on: 
+
+##I’m currently working on:
+<br>Myself! :)<br><br>
+
+##I’m looking to collaborate on: 
 <br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
-🌱I’m currently learning:
-<br> Fullstack Development, UX, C Development, Embedded Systems
-<br><br>
-##💬 Ask me about:
+##I’m currently learning:
+<br> Fullstack Development, UX, C Development, Embedded Systems<br><br>
+
+##Ask me about:
 <br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
 <br><br>
 ##⚡ Fun fact: 
