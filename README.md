@@ -5,18 +5,18 @@
 Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
 
 <br>
-🔭 I’m currently working on:
+##🔭 I’m currently working on:
 <br>Myself! :)
 <br><br>
-👯 **I’m looking to collaborate on:**  
+##👯 I’m looking to collaborate on: 
 <br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
-🌱**I’m currently learning:**
+🌱I’m currently learning:
 <br> Fullstack Development, UX, C Development, Embedded Systems
 <br><br>
-💬 **Ask me about:**  
+##💬 Ask me about:
 <br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
 <br><br>
-⚡ **Fun fact:**  
+##⚡ Fun fact: 
 <br>I do and love **Art, Design **and **Creativity**!
 <br><br>
 
@@ -52,10 +52,8 @@ Feel free to **Connect** with Me to discuss any Related Topics/Opportunities.
 ![](https://github-readme-stats.vercel.app/api?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardik3018&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik3018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hardik3018&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
--->
