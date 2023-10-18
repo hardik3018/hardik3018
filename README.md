@@ -1,4 +1,4 @@
-<p style="text-align: center;">Text_content</p>
+
 
 # Wassup? I'm **Hardik** btw!
 <br><br>
