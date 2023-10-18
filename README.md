@@ -1,11 +1,11 @@
 
 
-## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br>
+## | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) | <br><br>
 
 # 💫 About Me:
 Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **Delhi**, **India**.
 
-<br><br>
+<br>
 
 **I’m currently working on:**
 <br>Myself! :)<br><br>
