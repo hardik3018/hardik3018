@@ -1,4 +1,4 @@
-# | Portfolio | [https://joshidipesh12.github.io](https://hardikcodes18.netlify.app/) |
+# | Portfolio | [hardikcodes18.netlify.app](https://hardikcodes18.netlify.app/) |
 
 
 # 💫 About Me:
