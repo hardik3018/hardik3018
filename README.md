@@ -22,8 +22,9 @@
 ![C](https://img.shields.io/badge/C-6DA55F?style=for-the-badge&logo=cpp&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-6DA55F?style=for-the-badge&logo=cpp&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-6DD75F?style=for-the-badge&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
