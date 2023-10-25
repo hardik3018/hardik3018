@@ -14,12 +14,12 @@ Hi there! I'm **Hardik Chawda**, a **DEVELOPER, DESIGNER, CREATOR**, Based in **
 <br>Myself! :)<br><br>
 
 **💻 I’m looking to collaborate on:** 
-<br>Fullstack projects, Designing, Embedded Systems, UI/UX <br><br>
+<br>Immersive Frontend, Fullstack projects, C Development, Designing, UI/UX <br><br>
 **📖 I’m currently learning:**
 <br> Fullstack Development, UX, C Development, Embedded Systems<br><br>
 
 **💭 Ask me about:**
-<br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing and any general software development questions.
+<br>C, C++, HTML, CSS, JavaScript, React, Node.js, Designing, and any general software development questions.
 <br><br>
 **🎈 Fun fact:** 
 <br>I do and love **Art, Design** and **Creativity**!
